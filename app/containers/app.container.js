@@ -2,9 +2,7 @@
 import React from 'react';
 //Sound component
 import Sound from 'react-sound';
-//Axios for Ajax
 import Axios from 'axios';
-//Custom components
 import Details from '../components/details.component';
 import Player from '../components/player.component';
 import Progress from '../components/progress.component';
