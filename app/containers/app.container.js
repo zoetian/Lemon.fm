@@ -1,6 +1,4 @@
-//React library
 import React from 'react';
-//Sound component
 import Sound from 'react-sound';
 import Axios from 'axios';
 import Details from '../components/details.component';
